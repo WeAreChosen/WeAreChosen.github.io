@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Origin","order":1,"parentId":0,"scrollX":453,"scrollY":313},
-{"id":2,"expanded":false,"name":"School Classroom","order":2,"parentId":0,"scrollX":494.1818181818182,"scrollY":341.4545454545455},
+{"id":2,"expanded":false,"name":"School Classroom","order":2,"parentId":0,"scrollX":494.1818181818182,"scrollY":592.3636363636364},
 {"id":3,"expanded":false,"name":"School Hallway","order":3,"parentId":0,"scrollX":1080,"scrollY":332.72727272727275},
 {"id":4,"expanded":false,"name":"School","order":4,"parentId":0,"scrollX":609.8181818181819,"scrollY":444}
 ]
